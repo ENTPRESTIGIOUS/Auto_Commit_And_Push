@@ -1,5 +1,6 @@
 # Auto_Commit_And_Push
 <b>
+<p>WARNING! THIS ONLY APPLIES TO COMMAND PROMPTS RUNNING ON MINIMIZED AND NOT IN BACKGROUND(INVISIBLE)</p>
 <ol>
 	<li>Create batch file in git directory using Activate Commands in directory.txt</li>
 	<li>Make sure to create a .gitignore in the git directory to ignore that batch file</li>
