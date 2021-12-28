@@ -1,0 +1,5 @@
+cd (i.e: "C:\directory")
+git add .
+git commit -m "Auto Commit & Push w/ Task Scheduler"
+git push
+exit

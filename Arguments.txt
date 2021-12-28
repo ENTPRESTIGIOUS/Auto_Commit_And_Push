@@ -1,0 +1,1 @@
+/C start "" /MIN (directory including the filename(Activate Commands in directory))
