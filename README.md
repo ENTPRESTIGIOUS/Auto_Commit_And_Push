@@ -9,3 +9,6 @@
 	<li>Profit</li>
 </ol>
 </b>
+
+# Hide Auto Add Commit And Push w/o Command Prompt Showing
+<p><b>Make sure to select Run whether user is logged on or not and check the check box.</b></p>
