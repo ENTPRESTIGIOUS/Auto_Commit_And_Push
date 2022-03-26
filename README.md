@@ -12,3 +12,7 @@
 
 # Hide Auto Add Commit And Push w/o Command Prompt Showing
 <p><b>Make sure to select Run whether user is logged on or not and check the check box.</b></p>
+
+# Tips on preventing max CPU or memory
+[x] Stop the task if it runs longer than: "1 minute"
+[x] If the running task does not end when requested, force it to stop 
